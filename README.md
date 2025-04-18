@@ -1,2 +1,4 @@
 # programacao-oo
-Criado a pedido do professor Chauã Queirolo 3° Semestre do curso de ADS
+Disciplina: Programação Orientada a Objetos </br>
+ALuna: Eduarda H Bzunek</br>
+Período: 3º
